@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CyprianFusi/chat-with-sql-dbs/main/assts/binati_logo.png" alt="BINATI AI Logo" width="75"/><strong></strong>
+  <img src="https://raw.githubusercontent.com/CyprianFusi/chat-with-sql-dbs/main/assets/binati_logo.png" alt="BINATI AI Logo" width="75"/><strong></strong>
 
   # 🛢️ Chat with SQL Databases
 
