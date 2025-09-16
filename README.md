@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CyprianFusi/binati-multi-agents-research/main/assts/binati_logo.png" alt="BINATI AI Logo" width="75"/><strong></strong>
+  <img src="https://raw.githubusercontent.com/CyprianFusi/chat-with-sql-dbs/main/assts/binati_logo.png" alt="BINATI AI Logo" width="75"/><strong></strong>
 
   # 🛢️ Chat with SQL Databases
 
@@ -43,7 +43,7 @@ A Streamlit web application that allows you to chat with SQL databases using nat
 
 2. **Install required packages**
    ```bash
-   pip install streamlit langchain-community langchain-groq python-dotenv sqlalchemy mysql-connector-python psycopg2-binary
+   pip install -r requirements.txt
    ```
 
 3. **Set up environment variables** (optional)
