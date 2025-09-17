@@ -11,7 +11,13 @@ A Streamlit web application that allows you to chat with SQL databases using nat
 
 # Demo
 
-
+![DB Demo](assets/ui_1.png)
+![DB Demo](assets/ui_2.png)
+![DB Demo](assets/ui_3.png)
+![DB Demo](assets/ui_4.png)
+![DB Demo](assets/ui_5.png)
+![DB Demo](assets/ui_6.png)
+![DB Demo](assets/ui_7.png)
 
 ## ✨ Features
 
