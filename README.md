@@ -9,8 +9,8 @@
 
 A Streamlit web application that allows you to chat with SQL databases using natural language queries powered by LangChain and Groq's LLM API.
 
+See deployment demo at https://chat-with-sql-dbs-6ffixmdjypdlglejfomjwb.streamlit.app/
 # Demo
-
 ![DB Demo](assets/ui_1.png)
 ![DB Demo](assets/ui_2.png)
 ![DB Demo](assets/ui_3.png)
