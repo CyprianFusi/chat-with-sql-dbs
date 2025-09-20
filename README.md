@@ -201,7 +201,7 @@ Feel free to contribute by:
 
 ## 📄 License
 
-[Add your license information here]
+This project is licensed under the MIT License - see the [LICENSE](https://raw.githubusercontent.com/Dogfalo/materialize/master/LICENSE) file for details.
 
 ## 🔗 Resources
 
