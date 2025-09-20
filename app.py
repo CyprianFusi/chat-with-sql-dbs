@@ -18,7 +18,7 @@ LOCAL_DB = "USE_LOCAL_DB"
 MYSQL = "USE_MYSQL"
 POSTGRES = "USE_POSTGRES"
 
-db_opts = ["Coursework.db (SQLite3 DB)", "MySQL Database", 'PostgresSQL']
+db_opts = ["Coursework.db (SQLite)", "MySQL Database", 'PostgresSQL']
 
 selected_opt = st.sidebar.radio(label="Choose the DB to chat with", options=db_opts)
 
